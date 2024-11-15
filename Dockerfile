@@ -12,3 +12,4 @@ EXPOSE 8082
 
 # Command to run the app
 ENTRYPOINT ["java", "-jar", "app.jar"]
+#Hellow
